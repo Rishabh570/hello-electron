@@ -7,14 +7,14 @@ A simple electron project, HELLO ELECTRON!!!
 Simply:
 - Clone it.
 
-'''
+```
 _git clone https://github.com/Rishabh570/hello-electron.git_
-'''
+```
 - Move over to hello-electron directory
 
-'''
+```
 cd hello-electron
-'''
+```
 
 - npm install
 
