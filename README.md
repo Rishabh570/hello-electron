@@ -8,7 +8,7 @@ Simply:
 - Clone it.
 
 ```
-_git clone https://github.com/Rishabh570/hello-electron.git_
+git clone https://github.com/Rishabh570/hello-electron.git
 ```
 - Move over to hello-electron directory
 
